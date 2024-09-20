@@ -1,4 +1,4 @@
-# openblock-gui
+# ThingEduBlock - GUI
 
 [![Publish Npm Package And Deploy Github Pages](https://github.com/openblockcc/openblock-gui/actions/workflows/publish-npm-package-and-deploy-gh-pages.yml/badge.svg)](https://github.com/openblockcc/openblock-gui/actions/workflows/publish-npm-package-and-deploy-gh-pages.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -18,24 +18,6 @@ OpenBlock Online: [https://openblockcc.github.io/openblock-gui/develop/](https:/
 ## Getting Start
 
 Visit the wiki: [https://openblockcc.github.io](https://openblockcc.github.io)
-
-## Join chat
-
-- Gitter: [https://gitter.im/openblockcc/community](https://gitter.im/openblockcc/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
-
-- QQ 群 (for chinese): 933484739
-
-## Donate
-
-Buy me a cup of coffee.
-
-- Ko-fi (PayPal):
-
-    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X66DATO)
-
-- 支付宝:
-
-    ![alipayQRCode](./docs/alipayQRCode.png)
 
 ## Bug Report
 
