@@ -1,5 +1,5 @@
 {
-  "name": "thingedublock-gui",
+  "name": "openblock-gui",
   "version": "1.0.0",
   "description": "GraphicaL User Interface for creating and running OpenBlock projects",
   "main": "./dist/scratch-gui.js",
